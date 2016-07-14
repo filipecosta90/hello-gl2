@@ -1,0 +1,5 @@
+See file:///Users/filipeoliveira/Documents/hello-gl2/app/build/tmp/compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+clang++: warning: optimization flag '-finline-functions' is not supported
+
+Finished compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp, see full log file:///Users/filipeoliveira/Documents/hello-gl2/app/build/tmp/compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp/output.txt.
